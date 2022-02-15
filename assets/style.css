@@ -180,6 +180,10 @@ p{
     background: #FFCAFA;
 }
 
+.btn-blue{
+    background: #A3CEFF;
+}
+
 
 a:hover, .btn:hover{
     color: #FFA110;
@@ -283,5 +287,8 @@ a{
     text-decoration: none;
 }
 
+.justify-center{
+    text-align: center;
+}
 
 

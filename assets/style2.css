@@ -1,0 +1,94 @@
+.banner-section{
+    position: absolute;
+    height: 705px;
+    left: 0px;
+    top: 140px;
+
+    background: linear-gradient(89.55deg, #0F345E 52.78%, rgba(15, 52, 94, 0) 103.84%);
+}
+
+.banner-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+}
+
+.title-container{
+    padding-left: 150px;
+    padding-top: 250px;
+}
+
+.main-banner-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
+    /* or 133% */
+    color: #FFFFFF;
+}
+
+.banner-desc{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.study-topic{
+    position: absolute;
+    height: 815px;
+    left: 0px;
+    top: 745px;
+
+    background: #FFFFFF;
+}
+
+.why-us{
+    position: absolute;
+    height: 504px;
+    left: 0px;
+    top: 1660px;
+
+    background: #FFFFFF;
+}
+
+.footer-bootcamp{
+    position: absolute;
+    height: 642px;
+    left: 0px;
+    top: 2064px;
+    padding-left: 150px;
+    padding-right: 150px;
+    background: #0F345E;
+    }
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 169px;
+    height: 48px;
+
+
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+}
+
+.icon-whatsapp{
+    padding-left: 10px;
+}
+
+.button:hover{
+    background-color: aquamarine;
+}
