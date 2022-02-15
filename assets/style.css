@@ -1,0 +1,279 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:ital,wght@0,100;0,400;0,500;0,700;1,100;1,500;1,700&display=swap');
+
+.top-nav{
+    position: absolute;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+
+    background: #0F345E;
+}
+
+.top-contact{
+    position: absolute;
+    width: 400px;
+    height: 20px;
+    left: 928px;
+    top: 20px;
+}
+
+
+.icons{
+    position: absolute;
+    left: 10.19%;
+    right: 9.99%;
+    top: 9.88%;
+    bottom: 10.01%;
+
+    background: #FFFFFF;
+}
+
+.hotline-text{
+    position: static;
+    height: 20px;
+    top: 20px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    /* identical to box height */
+    
+    padding-right: 100px;
+    color: #FFFFFF;
+    
+    
+    /* Inside auto layout */
+    
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 12px;
+}
+
+.second-nav{
+    position: absolute;
+    height: 80px;
+    left: 0px;
+    top: 60px;
+
+    background: #1089C0;
+}
+
+.rectangle{
+    position: absolute;
+    width: 160px;
+    height: 180px;
+    left: 123px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 12px 20px rgba(171, 171, 171, 0.25);
+    border-radius: 0px 0px 10px 10px;
+    z-index: 3;
+}
+
+.main-nav{
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: static;
+    left: 0px;
+    top: 4.5px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 64px;
+}
+.navigation{
+    padding-right: 40px;
+    font-family: Poppins;
+}
+
+.navs-active{
+    font-weight: 500;
+    color: #FFA110;
+}
+
+
+.button-group{
+    padding-top: 20px;
+}
+
+.navs{
+    text-decoration: none;
+    color: #FFFFFF
+}
+
+.centered-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+p{
+    font-family: Poppins;
+    font-size: 16px;
+}
+
+.white-font{
+    color: #FFFFFF;
+}
+
+.main-img{
+    position: absolute;
+    width: 927px;
+    height: 463px;
+    left: 233px;
+    top: 383px;
+}
+
+.pt{
+    padding-top: 2px;
+    color: #939393;
+}
+
+.btn{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+.about{
+    position: absolute;
+    height: 750px;
+    left: 0px;
+    top: 846px;
+
+    background: #0F345E;
+}
+
+.text-about{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ffff;
+}
+
+.btn-white{
+    background: #FFFFFF;
+}
+
+.btn-orange{
+    background: #FFE7C1;
+}
+
+.btn-purple{
+    background: #FFCAFA;
+}
+
+
+a:hover, .btn:hover{
+    color: #FFA110;
+}
+
+.program{
+    position: absolute;
+    height: 709px;
+    left: 0px;
+    top: 1599px;
+    background: #FFFFFF;
+}
+
+.title-secondary{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.choose-us{
+    position: absolute;
+    height: 906px;
+    left: 0px;
+    top: 2177px;
+
+    background: #FFFFFF;
+}
+
+.text-gray{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #939393;
+}
+
+.how-we-learn{
+    position: absolute;
+    height: 401px;
+    left: 0px;
+    top: 2883px;
+    
+    background: #FFFFFF;
+}
+
+.corporate{
+    position: absolute;
+    height: 785px;
+    left: 0px;
+    top: 3204px;
+
+    background: #FFFFFF;
+}
+
+.corporate-2{
+    position: absolute;
+    height: 785px;
+    left: 0px;
+    top: 3889px;
+
+    background: #FFFFFF;
+}
+
+.testimonials{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    padding-top: 5px;
+}
+
+.footer-section{
+    position: absolute;
+    height: 642px;
+    left: 0px;
+    top: 4509px;
+
+    background: #0F345E;
+}
+
+hr{
+    margin-top:30px;
+    padding: 0;
+    border: none;
+    border-top: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    text-align: center;
+}
