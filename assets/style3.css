@@ -1,0 +1,124 @@
+.top-section{
+    position: relative;
+    height: 60px;
+    background-color: #0F345E;
+}
+
+.second-section{
+    position: relative;
+    height: 80px;
+    background: #1089C0;
+}
+
+.slider-section{
+    position: relative;
+    height: 705px;
+    background: linear-gradient(89.55deg, #0F345E 52.78%, rgba(15, 52, 94, 0) 103.84%);
+}
+
+
+.bootcamp-detail{
+    position: relative;
+    height: 2150px;
+    padding: 50px 150px;
+}
+
+.waktu-part{
+}
+
+.biaya-part{
+    padding-top: 50px;
+}
+
+.price-tag{
+    font-family: Poppins;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.blue-text{
+    font-family: Poppins;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #1089C0;
+}
+
+.idr{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #939393;
+}
+
+.price{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.kurikulum-part{
+    padding-top: 50px;
+}
+
+.list-group-item-active{
+    background: #1089C0;
+    border-radius: 4px;
+}
+
+.paragraph{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: #000000;
+
+}
+
+.desc{
+    font-family: Poppins;
+    padding-top: 14px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.footer-sec{
+    position: relative;
+    height: 642px;
+    left: 0px;
+
+    background: #0F345E;
+}
